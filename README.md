@@ -9,5 +9,5 @@ You can also run the scripts in your browser's JavaScript console by pasting the
 ## What they do
 * google - opens your query in a new tab
 * long-div - uses long division between two numbers and gives you the quotient and remainder
-* open-text - opens whatever text (in HTML formatting) in a new windows
+* open-text - opens whatever text you enter (in HTML formatting) in a new window
 * random - two scripts that either give you a random integer or a rational number from 0-1000
